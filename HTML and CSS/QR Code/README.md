@@ -3,7 +3,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/vitthal-korvan/Frontend-Mentor-Challenges/tree/main/HTML%20and%20CSS/QR%20Code)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### ScreenShot
