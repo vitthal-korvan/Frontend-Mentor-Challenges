@@ -15,7 +15,6 @@
 
 - [Vitthal-Korvan](https://www.linkedin.com/in/vitthal-korvan/)
 
-### What I Learned
 
 ### Built with
 
@@ -23,6 +22,6 @@
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [Built with HTML and CSS](#Flexbox)
+- [Code Subtle](https://www.linkedin.com/company/code-subtle/)
 
 
