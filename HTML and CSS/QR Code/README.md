@@ -4,7 +4,7 @@
 ### Links
 
 - Solution URL: [Github](https://github.com/vitthal-korvan/Frontend-Mentor-Challenges/tree/main/HTML%20and%20CSS/QR%20Code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify Link](https://qrcode-vitthal.netlify.app/)
 
 ### ScreenShot
 
@@ -13,7 +13,7 @@
 
 ### Author
 
-- [Author](#Vitthal-Korvan)
+- [Vitthal-Korvan](https://www.linkedin.com/in/vitthal-korvan/)
 
 ### What I Learned
 
