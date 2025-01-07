@@ -1,0 +1,80 @@
+/* Created by Vitthal- Korvan from Code Subtle */
+
+:root {
+      --White: hsl(0, 0%, 100%);
+      --Slate-300: hsl(212, 45%, 89%);
+      --Slate-500: hsl(216, 15%, 48%);
+      --Slate-900: hsl(218, 44%, 22%)
+}
+
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+
+body,
+html {
+      height: 100vh;
+      width: 100%;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.grid-main {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: var(--Slate-300);
+}
+
+.grid-parent {
+      background-color: var(--White);
+      border-radius: 20px;
+      height: 55%;
+      width: 20%;
+      text-align: center;
+}
+
+.grid-parent > img{
+      padding: 20px;
+      height: 60%;
+      width: 100%;
+      border-radius: 10%;
+}
+.grid-parent > h4{
+      font-size: 18px;
+      padding: 0 20px;
+      font-weight: 700;
+      
+}
+
+.grid-parent>p {
+      padding:  20px;
+      font-weight: 400;
+      font-size: 15px;
+}
+
+@media (max-width:1100px) {
+      .grid-parent{
+            width: 30%;
+      }
+}
+
+@media (max-width:720px) {
+      .grid-parent {
+            width: 45%;
+      }
+}
+@media (max-width:470px) {
+      .grid-parent {
+            width: 60%;
+      }
+}
+
+@media (max-width:375px) {
+      .grid-parent{
+            width: 70%;
+      }
+}
