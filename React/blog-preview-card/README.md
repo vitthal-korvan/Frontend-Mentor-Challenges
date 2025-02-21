@@ -3,7 +3,8 @@
 
 ### Links
 
-- Solution URL: [Github](https://github.com/vitthal-korvan/Frontend-Mentor-Challenges/tree/main/React/blog-preview-card)
+- Solution URL: [Github](https://github.com/vitthal-korvan/Frontend-Mentor-Challenges/tree/main/React/blog-preview-card)<br>
+- Live Link: [Netlify](https://code-subtle-blog-preview-page.netlify.app/)
 
 ### ScreenShot
 
@@ -12,7 +13,7 @@
 
 ### Author
 
-[Vitthal-Korvan](https://www.linkedin.com/in/vitthal-korvan)
+[Vitthal-Korvan](https://www.linkedin.com/in/vitthal-korvan)<br>
 [Code Subtle](https://www.linkedin.com/company/code-subtle)
 
 
