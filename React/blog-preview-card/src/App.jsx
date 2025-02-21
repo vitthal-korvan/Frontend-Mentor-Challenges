@@ -1,3 +1,5 @@
+import src from "./assets/images/illustration-article.svg"
+import avatar from "./assets/images/image-avatar.webp";
 
 import './App.css'
 
@@ -10,7 +12,7 @@ function App() {
         <div className="parent">
           <div className="child">
             <img
-              src="./src/assets/images/illustration-article.svg"
+              src={src}
               alt="article"
               className="img"
             />
@@ -22,7 +24,7 @@ function App() {
               content and presentation.
             </p>
             <div className="mini">
-              <img src="./src/assets/images/image-avatar.webp" alt="avatar" />
+              <img src={avatar} alt="avatar" />
               <h4>Greg Hooper</h4>
             </div>
           </div>
