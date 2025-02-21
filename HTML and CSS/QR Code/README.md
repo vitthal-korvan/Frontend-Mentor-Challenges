@@ -1,4 +1,5 @@
 # Frontend Mentor - QR code component
+
 ## Welcome! 👋
 
 ### Links
@@ -15,7 +16,6 @@
 
 - [Vitthal-Korvan](https://www.linkedin.com/in/vitthal-korvan/)
 
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -23,5 +23,3 @@
 - Flexbox
 - Mobile-first workflow
 - [Code Subtle](https://www.linkedin.com/company/code-subtle/)
-
-
